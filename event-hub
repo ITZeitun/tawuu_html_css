@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+<header>
+    <h1>Event Hub</h1>
+<nav>
+    <ul>
+        <li><a href="#upcoming-events">Upcoming Events</a></li>
+        <li><a href="#past-events">Past Events</a></li>
+    </ul>
+</nav>
+</header>
+<main>
+    <section id="upcoming-events">
+        <h2>Upcoming Events</h2>
+        <article>
+            <h3>Nviri the story teller live perfomance</h3>
+            <p>There will be a live perfomance by a member of the sol generation named Inviri. The hit maker has been a part of the famous sol generation for over two years now and has managed to be on top of his game for the entire period. Do not miss out.</p> 
+        </article>
+        <article>
+     <h3>Jay melody in kenya</h3>       
+     <p>There is an expected perfomance by a tanzanian artist. The dates are yet to be confirmed but will be communicated in due time. make sure to book ypur tickets via our website</p>
+        </article>
+    </section>    
+     <section id="past-events">
+        <h2>Past Events</h2>
+        <article>
+            <h3>Bensol live perfomance</h3>
+            <p>The past week we were honored to bring one bensol to perfome live on <strong>Events.ke</strong>. The <em>Lucy</em> hit maker did not dissapoint the audince and the events was full to the brim.There were attendees who missed the show because the event was fully booked prior to the event.Check out our website for upcoming events and early bookings.</p> 
+            <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="width:300px">
+        </article>
+        <article>
+       <h3>Food and drinks</h3>     
+ <p>  In the past events there were foods and drinks available for purchase but the food was sold out pretty early. Be ready for more foods and drinks in upcoming events.</p>
+ <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg" alt="width:300px">        
+        </article>
+    </section>  
+
+</main>
+<body>
+
+</body>
+
+</html>

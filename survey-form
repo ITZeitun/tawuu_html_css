@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+  <h1 id="title">Medical Survey Form</h1>
+   <p id="description">Thank you for volunteering with us</p>
+    <h2>Use the survey form below to garge your experience as a nurse in Shahidi medical camp.</h2>
+
+<form id="survey-form">
+  <label for="full-name">Name (required):</label>
+          
+ 
+    <label for="#name-label" id="name-label">Name (required)</label>  
+    <input type="text" id="name-label" name="name" placeholder="Ex. John Doe" required size="20"
+
+    placeholder="name"
+            id="name"
+            type="name"
+            name="name"
+            size="20"
+          >
+ 
+    <label type="email" id="email-label"> Email (required)</label>
+    <input 
+    placeholder="example@email.com"
+            required
+            id="email"
+            type="email"
+            name="email"
+            size="20"
+          /><br>
+    <input type="number" id="number" min="1" max="5000000"></input>
+    <label for="number" id="number-label">Number (required)</label>
+    <input 
+    placeholder="123-45-678"
+            required
+            id="number"
+            type="number"
+            name="number"
+            size="20"
+          /><br>
+
+    <label for="medications">How was the working environment provided during the medical camp?</label> 
+
+    <select id="dropdown"></select> <select name="camp" id="environment">
+            <option value="poor">Poor</option>
+            <option value="satisfactory">Satisfactory</option>
+            <option value="good">Good</option>
+            <option value="very-good">Very Good</option>
+            <option value="excellent">Excellent</option>
+          </select>
+         <input
+            checked
+            type="checkbox"
+            id="#survey-form"
+            name="#survey-form"
+            value="#survey-form"
+          />
+      <fieldset>
+          <legend>Was this your first time voluntering as a nurse in our program?</legend>
+          <label for="yes-option">Yes</label>
+          <input id="yes-option" type="radio" name="volunteer-nurse" value="volunteer-nurse" />
+          <label for="no-option">No</label>
+          <input id="no-option" type="radio" name="volunteer-nurse" value="volunteer-nurse" />
+      </fieldset>
+
+        <fieldset>
+          <legend>
+            Where did you learn about this medical camp? (Check all that apply)
+          </legend>
+
+          <label for="ads">Social Media Ads</label>
+          <input type="checkbox" id="ads" name="ads" value="ads" />
+    
+ <label for="comments">Other Comments?</label>
+        <textarea cols="30" rows="10" name="comments" id="comments"></textarea>
+        <button type="submit">Submit</button>         
+  </form>
+  <body></body>
+</html>

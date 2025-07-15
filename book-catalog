@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+<table>
+  <thead>Book catalog
+    <tr>
+      <th>Title</th>
+      <th>Author</th>
+      <th>Genre</th>
+      <th>Publication Year</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>The River </td>
+      <td>Margeret Ogolla</td>
+      <td>Set Book</td>
+      <td>1997</td>
+    </tr>
+    <tr>
+      <td>The River Between</td>
+      <td>Ngugi Wa Thion'go</td>
+      <td>Sitire</td>
+      <td>1981</td>
+    </tr>
+      <td>Kidagaa Kimemuozea</td>
+      <td>ken Walibora</td>
+      <td>Swahili Novel</td>
+      <td>2003</td>
+    </tr>
+    </tr><tr>
+      <td>The Sun Goes Down</td>
+      <td>Fransisca Maria</td>
+      <td>Comedy</td>
+      <td>1991</td>
+    </tr>
+    <tr>
+      <td>Come Home</td>
+      <td>Husna Hassan</td>
+      <td>Self-Growth</td>
+      <td>2011</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="4">Total Books: 5</td>
+    </tr>
+  </tfoot>
+</table>
+<body>
+</body>
+
+</html>
