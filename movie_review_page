@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Movie Review</title>
+ </head>
+<main>
+    <h1>RISE BEYOND</h1>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/rise-beyond-2.png" alt="rise-beyond cover">
+    <p>
+    A story of a boy who's life has been built of off his father's boxing career and mother's beauty business is told.
+        This boy rises to fame when he ventures into a music career and decides to tell his own story. The challenges of the entertainment industry however holds him down, but he rises into the show-biz like he means it.
+    </p>
+
+    <p>
+    <strong>Movie Rating: </strong> 
+    <span aria-hidden="true"
+    style="color:gold;">⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐</span>
+    <span class="sr-only"></span>(9.2/10)
+    </p>
+
+    <h2>Cast Members</h2>
+    <ul>
+        <li><strong>James Holloway</strong> as Ethan Carter</li>
+        <li><strong>Husna Hassan</strong> as Dawn Francis</li>
+        <li><strong>Victor Wanyama</strong> as Paul Dyuke</li>
+        <li><strong>Francis Smith</strong> as John walker</li>
+        <li><strong>Ignatius Rodrigues</strong> as Paul williams</li>
+        <li><strong>Priyanka chopra</strong> as Samantha Chrimes</li>
+    </ul>
+</main>    
+<body>
+
+</body>
+
+</html>
